@@ -1,2 +1,2 @@
 # llm-stuff
- trying to fine tune a Mistral 7B on my Mac with MLX.
+Fine tuning a Mistral-7b model from hf mlx, and then deploying it as a Telegram bot.

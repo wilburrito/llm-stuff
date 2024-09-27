@@ -1,6 +1,7 @@
-adapters.npz
-mlx-env/
+*.npz
 *.json
 *.jsonl
 *.txt
 *.csv
+*.env
+.env
