@@ -5,3 +5,4 @@
 *.csv
 *.env
 .env
+../mlx-env/
